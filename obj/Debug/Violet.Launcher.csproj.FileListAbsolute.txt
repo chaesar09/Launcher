@@ -1,0 +1,45 @@
+C:\Users\chaesar\Documents\amar project\Launcher\bin\Debug\Violet.exe.config
+C:\Users\chaesar\Documents\amar project\Launcher\bin\Debug\Violet.exe
+C:\Users\chaesar\Documents\amar project\Launcher\bin\Debug\Violet.pdb
+C:\Users\chaesar\Documents\amar project\Launcher\obj\Debug\Violet.Launcher.csproj.AssemblyReference.cache
+C:\Users\chaesar\Documents\amar project\Launcher\obj\Debug\MainWindow.g.cs
+C:\Users\chaesar\Documents\amar project\Launcher\obj\Debug\App.g.cs
+C:\Users\chaesar\Documents\amar project\Launcher\obj\Debug\Violet_MarkupCompile.cache
+C:\Users\chaesar\Documents\amar project\Launcher\obj\Debug\Violet_MarkupCompile.lref
+C:\Users\chaesar\Documents\amar project\Launcher\obj\Debug\MainWindow.baml
+C:\Users\chaesar\Documents\amar project\Launcher\obj\Debug\Violet.g.resources
+C:\Users\chaesar\Documents\amar project\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+C:\Users\chaesar\Documents\amar project\Launcher\obj\Debug\Violet.Launcher.csproj.GenerateResource.cache
+C:\Users\chaesar\Documents\amar project\Launcher\obj\Debug\Violet.Launcher.csproj.CoreCompileInputs.cache
+C:\Users\chaesar\Documents\amar project\Launcher\obj\Debug\Violet.exe
+C:\Users\chaesar\Documents\amar project\Launcher\obj\Debug\Violet.pdb
+D:\Project\LauncherSAlpha\Launcher\obj\Debug\Violet.Launcher.csproj.AssemblyReference.cache
+D:\Project\LauncherSAlpha\Launcher\obj\Debug\MainWindow.g.cs
+D:\Project\LauncherSAlpha\Launcher\obj\Debug\App.g.cs
+D:\Project\LauncherSAlpha\Launcher\obj\Debug\MainWindow.baml
+D:\Project\LauncherSAlpha\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+D:\Project\LauncherSAlpha\Launcher\obj\Debug\Violet.Launcher.csproj.GenerateResource.cache
+D:\Project\LauncherSAlpha\Launcher\obj\Debug\Violet.Launcher.csproj.CoreCompileInputs.cache
+D:\Project\LauncherSAlpha\Launcher\bin\Debug\S4Alpha.exe.config
+D:\Project\LauncherSAlpha\Launcher\bin\Debug\S4Alpha.exe
+D:\Project\LauncherSAlpha\Launcher\bin\Debug\S4Alpha.pdb
+D:\Project\LauncherSAlpha\Launcher\obj\Debug\S4Alpha_MarkupCompile.cache
+D:\Project\LauncherSAlpha\Launcher\obj\Debug\S4Alpha_MarkupCompile.lref
+D:\Project\LauncherSAlpha\Launcher\obj\Debug\S4Alpha.g.resources
+D:\Project\LauncherSAlpha\Launcher\obj\Debug\S4Alpha.exe
+D:\Project\LauncherSAlpha\Launcher\obj\Debug\S4Alpha.pdb
+C:\Users\chaesar\Downloads\Compressed\LauncherSAlpha-main_3\LauncherSAlpha-main\Launcher\bin\Debug\S4Alpha.exe.config
+C:\Users\chaesar\Downloads\Compressed\LauncherSAlpha-main_3\LauncherSAlpha-main\Launcher\bin\Debug\S4Alpha.exe
+C:\Users\chaesar\Downloads\Compressed\LauncherSAlpha-main_3\LauncherSAlpha-main\Launcher\bin\Debug\S4Alpha.pdb
+C:\Users\chaesar\Downloads\Compressed\LauncherSAlpha-main_3\LauncherSAlpha-main\Launcher\obj\Debug\Violet.Launcher.csproj.AssemblyReference.cache
+C:\Users\chaesar\Downloads\Compressed\LauncherSAlpha-main_3\LauncherSAlpha-main\Launcher\obj\Debug\MainWindow.g.cs
+C:\Users\chaesar\Downloads\Compressed\LauncherSAlpha-main_3\LauncherSAlpha-main\Launcher\obj\Debug\App.g.cs
+C:\Users\chaesar\Downloads\Compressed\LauncherSAlpha-main_3\LauncherSAlpha-main\Launcher\obj\Debug\S4Alpha_MarkupCompile.cache
+C:\Users\chaesar\Downloads\Compressed\LauncherSAlpha-main_3\LauncherSAlpha-main\Launcher\obj\Debug\S4Alpha_MarkupCompile.lref
+C:\Users\chaesar\Downloads\Compressed\LauncherSAlpha-main_3\LauncherSAlpha-main\Launcher\obj\Debug\MainWindow.baml
+C:\Users\chaesar\Downloads\Compressed\LauncherSAlpha-main_3\LauncherSAlpha-main\Launcher\obj\Debug\S4Alpha.g.resources
+C:\Users\chaesar\Downloads\Compressed\LauncherSAlpha-main_3\LauncherSAlpha-main\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+C:\Users\chaesar\Downloads\Compressed\LauncherSAlpha-main_3\LauncherSAlpha-main\Launcher\obj\Debug\Violet.Launcher.csproj.GenerateResource.cache
+C:\Users\chaesar\Downloads\Compressed\LauncherSAlpha-main_3\LauncherSAlpha-main\Launcher\obj\Debug\Violet.Launcher.csproj.CoreCompileInputs.cache
+C:\Users\chaesar\Downloads\Compressed\LauncherSAlpha-main_3\LauncherSAlpha-main\Launcher\obj\Debug\S4Alpha.exe
+C:\Users\chaesar\Downloads\Compressed\LauncherSAlpha-main_3\LauncherSAlpha-main\Launcher\obj\Debug\S4Alpha.pdb
